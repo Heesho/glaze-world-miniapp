@@ -1,0 +1,5 @@
+{
+  "name": "GlazeWorld",
+  "description": "A cyberpunk territory control game where users glaze the globe to mine CORE. Features a 3D interactive globe and AI-driven territory lore.",
+  "requestFramePermissions": []
+}
